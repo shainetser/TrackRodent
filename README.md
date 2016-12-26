@@ -14,6 +14,10 @@ The relevant algorithms and their functions are:
 2) MiceMovieAnalyzerSRM10_3_2016 - for tracking black mice head and the head interaction with the stimulus area.
 3) MiceMovieAnalyzerSRM4_11_15 - for tracking wired black mice and their interaction with the stimulus area with their entire body.
 4) RatMovieAnalyzerSRM15_7_15 - for tracking white rats and their interaction with the stimulus area with their entire body.
-Runing the algorithms can allow extraction of the data and in addition saving an analyzed movie. In this movie, a curser on the rodents changes its color according to the action (interaction with a specific stimulus). 
-Each algorithm has also a *_Fast version that extracks the results without saving the analyzed movie.
+Runing the algorithms allows extraction of the data and in addition saving an analyzed movie. In this movie, a curser on the rodent changes its color according to the action (interaction with a specific stimulus). 
+
+Each algorithm has also a *_Fast version that extracts the results without saving the analyzed movie.
+
+For more information please approach the paper or contact me
+Shai Netser - shainetser@gmail.com
 
