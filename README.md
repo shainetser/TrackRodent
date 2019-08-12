@@ -22,9 +22,9 @@ The relevant algorithms and their functions are:
    For tracking white mice and their interaction with the stimulus area with their entire body.
 Runing the algorithms allows extraction of the data and in addition saving an analyzed movie. In this movie, a curser on the rodent changes its color according to the action (interaction with a specific stimulus). 
 
-Each algorithm has also a *_Fast version that extracts the results without saving the analyzed movie (please remove the "save movie" checkmark in the softwares GUI).
+Most algorithms has also a *_Fast version that extracts the results without saving the analyzed movie.
 
-Note: The software also includes the foundations for adding more algorithems in the future (such as for white rats).
+Note: The software also includes the foundations for adding more algorithems in the future.
 
 For more information please approach the papers or contact me: 
 Shai Netser - shainetser@gmail.com
