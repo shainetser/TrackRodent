@@ -7,6 +7,7 @@ from the lab of Dr. Shlomo Wagner at Haifa university.
 
 It is also explained in more details in the JoVE (Journal of visualized experiments) article named:
 "A novel system for tracking the dynamics of social preference behavior in small rodents" 
+https://www.jove.com/video/60336/a-system-for-tracking-dynamics-social-preference-behavior-small
 
 The software can, as any standard rodents' tracking software, track a single black or white mouse extract basic parameters according to the experimental task (location, time in compartments...). In addition, the software outputs the times of interactions with "stimuli areas" that can be definds by the experimenter. This gives the option of extracting interactions times in an accurate manar. 
 
